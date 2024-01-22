@@ -11,7 +11,7 @@ namespace _01字符串的练习
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("2");
+            Console.WriteLine("3");
             Console.ReadKey();
         }
     }
